@@ -34,3 +34,6 @@ Większa część społeczeństwa zyska na takim systemie m.in. poprawi się jak
 
 ## Oszacowanie ryzyka
 System bazy danych powinien bezkonfliktowo pozwalać na pracę wielu osób jednocześnie, posiadać częste kopie zapasowe, kontrolować spójność i unikalność wprowadzanych danych oraz ograniczać dostęp do danych wedle uprawnień.
+
+## Schemat bazy danych
+![alt text](https://imgur.com/hgQEinR)
