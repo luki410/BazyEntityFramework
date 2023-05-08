@@ -36,4 +36,4 @@ Większa część społeczeństwa zyska na takim systemie m.in. poprawi się jak
 System bazy danych powinien bezkonfliktowo pozwalać na pracę wielu osób jednocześnie, posiadać częste kopie zapasowe, kontrolować spójność i unikalność wprowadzanych danych oraz ograniczać dostęp do danych wedle uprawnień.
 
 ## Schemat bazy danych
-![zdjęcie schematu bazy danych]([https://imgur.com/hgQEinR](https://github.com/luki410/BazyEntityFramework/blob/main/schemat.png))
+![zdjęcie schematu bazy danych]([./schemat.png))
